@@ -1,0 +1,89 @@
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.exe
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.deps.json
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.runtimeconfig.json
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.runtimeconfig.dev.json
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.dll
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.pdb
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csprojAssemblyReference.cache
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaCadastroCandidato.resources
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.telaMenu.resources
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaResultadoVotacao.resources
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaVotacao.resources
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csproj.GenerateResource.cache
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.AssemblyInfoInputs.cache
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.AssemblyInfo.cs
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csproj.CoreCompileInputs.cache
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.dll
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.pdb
+C:\Users\XiminonPC\apl_2020\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.genruntimeconfig.cache
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.exe
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.deps.json
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.runtimeconfig.json
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.runtimeconfig.dev.json
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.dll
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.pdb
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csprojAssemblyReference.cache
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaCadastroCandidato.resources
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.telaMenu.resources
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaResultadoVotacao.resources
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaVotacao.resources
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csproj.GenerateResource.cache
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.AssemblyInfoInputs.cache
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.AssemblyInfo.cs
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csproj.CoreCompileInputs.cache
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.dll
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.pdb
+C:\Users\XiminonPC\Desktop\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.genruntimeconfig.cache
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.exe
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.deps.json
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.runtimeconfig.json
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.runtimeconfig.dev.json
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.dll
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.pdb
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csprojAssemblyReference.cache
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaCadastroCandidato.resources
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.telaMenu.resources
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaResultadoVotacao.resources
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaVotacao.resources
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csproj.GenerateResource.cache
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.AssemblyInfoInputs.cache
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.AssemblyInfo.cs
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csproj.CoreCompileInputs.cache
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.dll
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.pdb
+C:\Users\XiminonPC\source\repos\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.genruntimeconfig.cache
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.exe
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.deps.json
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.runtimeconfig.json
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.runtimeconfig.dev.json
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.dll
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.pdb
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csprojAssemblyReference.cache
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaCadastroCandidato.resources
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.telaMenu.resources
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaResultadoVotacao.resources
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaVotacao.resources
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csproj.GenerateResource.cache
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.dll
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.pdb
+C:\Users\Gabriel\Downloads\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.genruntimeconfig.cache
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.exe
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.deps.json
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.runtimeconfig.json
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.runtimeconfig.dev.json
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.dll
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\bin\Debug\netcoreapp3.1\Eleições_2020.pdb
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaCadastroCandidato.resources
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.telaMenu.resources
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaResultadoVotacao.resources
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.Views.telaVotacao.resources
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csproj.GenerateResource.cache
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.dll
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.pdb
+C:\Users\Gabriel\Downloads\ARQUIVOS\ULTIMOS PROJETO PROGRAMACAO-20210121T173630Z-001\ULTIMOS PROJETO PROGRAMACAO\Eleições_2020\Eleições_2020\obj\Debug\netcoreapp3.1\Eleições_2020.genruntimeconfig.cache
